@@ -101,6 +101,7 @@ pip install rembg[gpu,cli] # for library + cli
 ## Command-line usage 使用方法
 基本使用本機檔案讀取
 
+- Model 存放於 USER/.u2net
 - 模型類別
 ```
 u2net = "一般大宗狀況"
